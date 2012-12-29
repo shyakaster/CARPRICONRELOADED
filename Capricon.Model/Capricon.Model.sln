@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capricon.Model", "Capricon.Model\Capricon.Model.csproj", "{442D5271-26AA-4D76-8E0C-1F4A8BD30DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capricon.DataAccess", "Capricon.DataAccess\Capricon.DataAccess.csproj", "{C3AABAB6-F180-4039-99B1-82ADDB1DDF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capricon.Tests", "Capricon.Tests\Capricon.Tests.csproj", "{8C5D6F13-63BC-487A-B8E1-8924D8BDA292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442D5271-26AA-4D76-8E0C-1F4A8BD30DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442D5271-26AA-4D76-8E0C-1F4A8BD30DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442D5271-26AA-4D76-8E0C-1F4A8BD30DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442D5271-26AA-4D76-8E0C-1F4A8BD30DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AABAB6-F180-4039-99B1-82ADDB1DDF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AABAB6-F180-4039-99B1-82ADDB1DDF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AABAB6-F180-4039-99B1-82ADDB1DDF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AABAB6-F180-4039-99B1-82ADDB1DDF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5D6F13-63BC-487A-B8E1-8924D8BDA292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5D6F13-63BC-487A-B8E1-8924D8BDA292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5D6F13-63BC-487A-B8E1-8924D8BDA292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5D6F13-63BC-487A-B8E1-8924D8BDA292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
